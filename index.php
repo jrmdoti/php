@@ -1,4 +1,4 @@
 <?php
-echo '<h1>Welcome to Mahendranagar Nepal !</h1>';
+echo '<h1>Welcome to Git !</h1>';
 ?>
 
